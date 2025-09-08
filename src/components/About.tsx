@@ -6,7 +6,7 @@ const About: React.FC = () => {
     {
       icon: <Target className="w-8 h-8 text-primary-600" />,
       title: "Fokus pada Tujuan",
-      description: "  setiap anggota untuk menetapkan dan mencapai tujuan personal dan profesional mereka."
+      description: "  kami membantu setiap anggota untuk menetapkan dan mencapai tujuan personal dan profesional mereka."
     },
     {
       icon: <Users className="w-8 h-8 text-primary-600" />,
@@ -20,8 +20,8 @@ const About: React.FC = () => {
     },
     {
       icon: <Heart className="w-8 h-8 text-primary-600" />,
-      title: "Kepedulian",
-      description: "Kami peduli dengan pertumbuhan dan kesejahteraan setiap anggota komunitas."
+      title: "Admin",
+      description: "Uang admin 25rb, 27201113000 A/n Adelika srimenda Bank BCA."
     }
   ];
 
@@ -34,7 +34,7 @@ const About: React.FC = () => {
               Tentang <span className="gradient-text">Kobar</span>
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Kobar adalah komunitas yang didirikan dengan visi menciptakan lingkungan yang mendukung pertumbuhan personal dan profesional setiap anggotanya.
+              KOBAR merupakan suatu perkumpulan NAPOSO BATAK RANTAU di daerah jabodetabek. Komunitas Naposo Batak(KOBAR) sudah terbentuk sebelumnya dan bernamakan pemuda-pemudi batak jabodetabek(P2JB),maka adanya kesepakatan bersama antara kepengurusan pemuda-pemudi batak jabodetabek menjadi komunitas naposo batak rantau.
             </p>
           </div>
 
@@ -43,13 +43,19 @@ const About: React.FC = () => {
               <div>
                 <h3 className="text-2xl font-semibold text-gray-900 mb-3">Misi Kami</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Menciptakan ekosistem pembelajaran dan pengembangan diri yang inklusif, di mana setiap individu dapat tumbuh, berbagi pengalaman, dan meraih potensi maksimal mereka bersama-sama.
+                  "KOBAR" Bertujuan mewujudkan naposo batak yang berpengetahuan tentang adat istiadat badat dan nilai nilai etika batak serta memiliki rasa kepedulian antar sesama sehingga bisa menjadi berkat bagi sesama.
                 </p>
               </div>
               <div>
                 <h3 className="text-2xl font-semibold text-gray-900 mb-3">Visi Kami</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Menjadi komunitas pengembangan diri terdepan yang mampu menghasilkan individu-individu unggul dan berkontribusi positif bagi masyarakat.
+                  *MEET UP/KOPDAR
+                  *SHARING
+                  *Olahraga
+                  *Lowker
+                  *Cari Jodoh
+                  *Refresing 6 bulan sekali
+                  *Perjamuan kasih kepantiasuhan 6 bulan sekali.
                 </p>
               </div>
             </div>
