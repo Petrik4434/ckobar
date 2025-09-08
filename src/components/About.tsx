@@ -6,7 +6,7 @@ const About: React.FC = () => {
     {
       icon: <Target className="w-8 h-8 text-primary-600" />,
       title: "Fokus pada Tujuan",
-      description: "Kami membantu setiap anggota untuk menetapkan dan mencapai tujuan personal dan profesional mereka."
+      description: " membantu setiap anggota untuk menetapkan dan mencapai tujuan personal dan profesional mereka."
     },
     {
       icon: <Users className="w-8 h-8 text-primary-600" />,
