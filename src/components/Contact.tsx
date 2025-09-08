@@ -23,7 +23,7 @@ const Contact: React.FC = () => {
   };
 
   const handleWhatsAppContact = () => {
-    const phoneNumber = '6282360171945';
+    const phoneNumber = '6285366829582';
     const message = `Halo! Saya tertarik untuk bergabung dengan Komunitas Kobar. Mohon informasi lebih lanjut.`;
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
