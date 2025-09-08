@@ -18,17 +18,17 @@ const Footer: React.FC = () => {
     {
       icon: <FaInstagram className="w-4 h-4" />,
       name: 'Instagram',
-      href: 'https://instagram.com/kobar_sejabodetabek',
+      href: 'https://www.instagram.com/kobar_sejabodetabek?igsh=MWoyNmJja2hnc25taA==',
     },
     {
       icon: <FaTiktok className="w-4 h-4" />,
       name: 'TikTok',
-      href: 'https://www.tiktok.com/@kobar_community',
+      href: 'https://www.tiktok.com/@kobar140524?_t=ZS-8zYy8XBgVt6&_r=1',
     },
     {
       icon: <FaPhone className="w-4 h-4" />,
       name: 'Telepon',
-      href: 'tel:+6282360171945',
+      href: 'tel:+6285366829582',
     },
   ];
 
