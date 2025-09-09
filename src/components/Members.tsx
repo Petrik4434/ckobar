@@ -17,7 +17,7 @@ const Members: React.FC = () => {
     },
     {
       icon: <Crown className="w-8 h-8 text-accent-600" />,
-      title: "BPK (Badan Pengurus Komunitas)",
+      title: "BPH (Badan Pengurus Harian)",
       count: "10+",
       description: "Profesional berpengalaman yang membimbing anggota lain.",
     }
@@ -77,7 +77,7 @@ const Members: React.FC = () => {
           </div>
 
           <div>
-            <h3 className="text-3xl font-bold text-center text-gray-900 mb-12">Anggota Unggulan Kami</h3>
+            <h3 className="text-3xl font-bold text-center text-gray-900 mb-12">Badan Pengurus Harian</h3>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
               {featuredMembers.map((member, index) => (
                 <div key={index} className="bg-white p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100 group hover:-translate-y-2 text-center hover-scale">
