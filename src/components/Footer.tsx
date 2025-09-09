@@ -95,7 +95,7 @@ const Footer: React.FC = () => {
               <li className="flex items-center space-x-2">
                 <Phone className="w-4 h-4 text-primary-400" />
                 <button onClick={handleWhatsAppContact} className="hover:text-white transition text-left">
-                  +62 823-6017-1945
+                  +6285366829582
                 </button>
               </li>
               <li className="flex items-center space-x-2">
